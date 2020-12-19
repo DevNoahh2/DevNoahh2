@@ -22,7 +22,7 @@ Hey! My name is Noah Richardson. I am 14 years old and live in small town in Sou
 <details>
  <summary>🎨 <b>My Github Statistics</b>: </summary>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DevNoahh2&show_icons=true&theme=onedark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NoahDevelops&show_icons=true&theme=onedark">
 </p>
 
 
